@@ -25,7 +25,7 @@ The shortcut smoothing algorithm was implemented in C++. In order to run the alg
 
 ![alt text][fig3]
 
-In the figure below, the length of the path is plotted against the number of times it was executed. Iy can be noted a fast decrease in size on the initial steps, and a steady lenght by the end, as the path reaches a local minimum.
+In the figure below, the length of the path is plotted against the number of times it was executed. It can be noted a fast decrease in size on the initial steps, and a steady lenght by the end, as the path reaches a local minimum.
 
 ![alt text][fig4]
 
